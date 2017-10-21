@@ -1,0 +1,22 @@
+{
+    "name": "@flykode/simplejs-format",
+    "version": "0.1.0",
+    "engines": {
+      "node": ">=6.9.0"
+    },
+    "description": "Simple JS Format Lib",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/flykode/simplejsformat"
+    },
+    "keywords": [
+      "simplejs",
+      "formatter"
+    ],
+    "author": "FlyKode",
+    "license": "MIT"
+}
